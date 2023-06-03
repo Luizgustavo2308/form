@@ -1,0 +1,15 @@
+
+.corpo{
+    background-color:aquamarine;
+}
+
+
+.caixa{
+    text-align: start;
+    width: 383px;
+    height: 261px;
+}
+
+.img1{
+    position: relative;
+}
